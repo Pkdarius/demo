@@ -1,0 +1,101 @@
+[
+  {
+    "title": "Home",
+    "url": "#",
+    "columns": "1",
+    "icon": "fa fa-angle-down fa-indicator",
+    "items": [
+      {
+        "title": "Webster default",
+        "url": "/",
+        "badge": {
+          "title": "Default",
+          "class": "badge bg-primary"
+        }
+      },
+      {
+        "title": "Classic Business",
+        "url": "/"
+      },
+      {
+        "title": "Business Parallax",
+        "url": "/"
+      },
+      {
+        "title": "Digital Agency",
+        "url": "/"
+      },
+      {
+        "title": "Corporate",
+        "url": "/"
+      },
+      {
+        "title": "Modern Business",
+        "url": "/"
+      },
+      {
+        "title": "Creative Studio",
+        "url": "/"
+      }
+    ]
+  },
+  {
+    "title": "Features",
+    "url": "/",
+    "icon": "fa fa-angle-down fa-indicator",
+    "level": true,
+    "items": [
+      {
+        "title": "Header",
+        "url": "/",
+        "icon": "ti-plus fa-indicator",
+        "items": [
+          {
+            "title": "default",
+            "url": "/"
+          },
+          {
+            "title": "Transparent",
+            "url": "/",
+            "icon": "ti-plus fa-indicator",
+            "items": [
+              {
+                "title": "default",
+                "url": "/"
+              },
+              {
+                "title": "Transparent",
+                "url": "/",
+                "icon": "ti-plus fa-indicator"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Classic Business",
+        "url": "/"
+      },
+      {
+        "title": "Business Parallax",
+        "url": "/"
+      },
+      {
+        "title": "Digital Agency",
+        "url": "/"
+      },
+      {
+        "title": "Corporate",
+        "url": "/"
+      },
+      {
+        "title": "Modern Business",
+        "url": "/"
+      },
+      {
+        "title": "Creative Studio",
+        "url": "/"
+      }
+    ]
+  }
+]
